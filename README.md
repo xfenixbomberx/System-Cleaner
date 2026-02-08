@@ -27,14 +27,9 @@ https://ibb.co/LDs1WGw8)
 
 ## 🚀 Installation
 
-### Option 1: Installer (recommended)
 1. Download the latest installer from **Releases**
 2. Run `SystemCleanerSetup.exe`
 3. Follow the on-screen instructions
-
-### Option 2: Portable
-1. Download the portable build
-2. Run `SystemCleaner.exe`
 
 > ⚠️ Cleaning **Prefetch** may require Administrator privileges.
 
@@ -55,8 +50,4 @@ System Cleaner checks for updates using a simple version file hosted on GitHub.
 - **C#**
 - **Inno Setup** (installer)
 - Windows 10 / 11 compatible
-
----
-
-## 📂 Project Structure
 
