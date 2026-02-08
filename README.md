@@ -20,7 +20,8 @@ Built with **WPF (.NET)** and designed for **Windows 10 & 11**, it features a mo
 
 ## 🖥️ Screenshots
 
-*(Screenshots coming soon)*
+(https://ibb.co/HfYB25F8
+https://ibb.co/LDs1WGw8)
 
 ---
 
